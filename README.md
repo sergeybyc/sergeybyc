@@ -1,10 +1,13 @@
-# Привет, мир 👋
+# Привет, меня зовут Сергей! 👋
  
- ---
+---
  
-Начинающий веб разработчик
+### :man_technologist: Обо мне:
 
+Я начинающий веб разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
+- :telescope: Учусь в университете Синергия на факультете фулл-стак разработчик
+- :mailbox: Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sergeybychkow12@gmail.com)
 ---
 
 ### 💻 Технологии:
@@ -15,5 +18,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
 </div>
-
-* 🌍  I'm based in Москва
