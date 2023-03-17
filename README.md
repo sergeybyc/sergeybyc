@@ -1,8 +1,8 @@
-# Привет, мир! 👋
+# Привет 👋
  
 ### :man_technologist: Обо мне:
 
-Я начинающий веб разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
 - :earth_africa: г. Москва
 - :mortar_board: Учусь в университете Синергия на фулл-стек разработчика
