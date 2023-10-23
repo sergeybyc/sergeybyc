@@ -4,9 +4,9 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"><br>
 
-:earth_africa: г. Москва
-:mortar_board: Учусь в университете Синергия на фулл-стек разработчика
-:mailbox: Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sergeybychkow12@gmail.com)
+:earth_africa: г. Москва<br>
+:mortar_board: Учусь в университете Синергия на фулл-стек разработчика<br>
+:mailbox: Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sergeybychkow12@gmail.com)<br>
 
 ### 💻
 
