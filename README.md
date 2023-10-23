@@ -1,6 +1,6 @@
 # Привет 👋
  
-### :man_technologist: Обо мне:
+### :man_technologist:
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
@@ -8,7 +8,7 @@
 - :mortar_board: Учусь в университете Синергия на фулл-стек разработчика
 - :mailbox: Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sergeybychkow12@gmail.com)
 
-### 💻 Технологии:
+### 💻
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
