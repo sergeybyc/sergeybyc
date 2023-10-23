@@ -5,7 +5,7 @@
 - :earth_africa: г. Москва
 - :mortar_board: Учусь в университете Синергия на фулл-стек разработчика
 - :mailbox: Как связаться со мной
-- e-mail [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sergeybychkow12@gmail.com)
+- [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sergeybychkow12@gmail.com)
 
 ### 💻 Технологии
 
